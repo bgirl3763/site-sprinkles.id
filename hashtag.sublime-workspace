@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"cons"
+			],
+			[
+				"email",
+				"emailController"
+			],
+			[
+				"cont",
+				"Controllers"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"bak",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-origin"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 381.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rowena/hashtag/package.json",
+		"/C/Users/Rowena/Documents/GitHub/startbootstrap-full-slider-1.0.3/index.html",
+		"/C/Users/Rowena/hashtag/controllers/pageController.js",
+		"/C/Users/Rowena/hashtag/index.js",
+		"/C/Users/Rowena/Documents/GitHub/startbootstrap-full-slider-1.0.3/test.json",
+		"/C/Users/Rowena/hashtag/public/index.html",
+		"/C/Users/Rowena/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rowena/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Rowena/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/Rowena/hashtag/controllers/emailController.js",
+		"/C/Users/Rowena/Documents/GitHub/site-hashtag.com/index.html",
+		"/C/Users/Rowena/Documents/GitHub/startbootstrap-full-slider-1.0.3/css/full-slider.css",
+		"/C/Users/Rowena/Documents/GitHub/site-hashtag.com/css/cover.css",
+		"/C/Users/Rowena/Downloads/Ex_files_Creating_a_website_using__Bootstrap/Ex_files_Creating_a_website_using__Bootstrap/wiredwiki.html",
+		"/C/Users/Rowena/Documents/GitHub/site-vip.co.id/css/carousel.css",
+		"/C/Users/Rowena/Documents/GitHub/site-vip.co.id/index.html",
+		"/C/Users/Rowena/Documents/GitHub/site-theproductivesociety.com/index.html",
+		"/C/Users/Rowena/Documents/GitHub/site-theproductivesociety.com/css/main.css",
+		"/C/Users/Rowena/Downloads/bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/css/bootstrap.css.map",
+		"/C/Users/Rowena/Google Drive/Documents/Website/Productive Society/index.html",
+		"/C/Users/Rowena/Google Drive/Documents/Website/Productive Society/css/main.css",
+		"/C/Users/Rowena/Documents/GitHub/site-rowenaipsilanti.com/css/resume.css",
+		"/C/Users/Rowena/Documents/GitHub/site-rowenaipsilanti.com/resume.html",
+		"/C/Users/Rowena/Documents/GitHub/site-rowenaipsilanti.com/index.html",
+		"/C/Users/Rowena/Google Drive/Documents/Website/Productive Society/js/main.js",
+		"/C/Users/Rowena/Documents/website VIP/2014/index.html",
+		"/C/Users/Rowena/Documents/website VIP/2014/js/main.js",
+		"/C/Users/Rowena/Documents/website VIP/2014/css/main.css",
+		"/C/Users/Rowena/Documents/website VIP/2014/index-id.html",
+		"/C/Users/Rowena/AppData/Roaming/McNeel/Rhinoceros/5.0/scripts/classes_curves_members_class.py",
+		"/C/Users/Rowena/list1",
+		"/C/Users/Rowena/test.py",
+		"/C/Users/Rowena/Google Drive/Documents/.UMich Classes/Fall 2014/ARCH 591/Final/rowenaIpsilanti_finalproject.py",
+		"/C/Users/Rowena/Documents/Website/Old/index.html",
+		"/C/Users/Rowena/Documents/website VIP/2014/home.html",
+		"/C/Users/Rowena/Documents/GitHub/site-rowenaipsilanti.com/css/main.css",
+		"/C/xampp/htdocs/364/index.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/364/howdy/index.php",
+		"/C/xampp/htdocs/rowena.php",
+		"/C/Users/Rowena/Documents/Website/besttale/Script/js/main.js",
+		"/C/Users/Rowena/Documents/Website/besttale/Script/home.html",
+		"/C/Users/Rowena/Documents/Website/besttale/Script/best-match.html",
+		"/C/Users/Rowena/Documents/Website/besttale/Script/best-list.html",
+		"/C/Users/Rowena/Documents/Website/besttale/Script/css/besttale.css",
+		"/C/Users/Rowena/Documents/GitHub/site-rowenaipsilanti.com/js/main.js",
+		"/C/Users/Rowena/Documents/GitHub/site-rowenaipsilanti.com/js/main.min.js",
+		"/C/Users/Rowena/Documents/GitHub/site-rowenaipsilanti.com/.gitignore",
+		"/C/Users/Rowena/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"br",
+			"next-section-link",
+			"scroll-animate",
+			".nobg",
+			".nextbutton",
+			"button",
+			"ul",
+			"nav ul li",
+			"masthead nav",
+			"lead",
+			"400px",
+			"cache",
+			"displ"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hashtag.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
